@@ -27,6 +27,10 @@ Historias de Usuario
 
 ## Stack Tecnológico
 El proyecto tiene hace uso de la siguiente tecnología:
+### Administración del Proyecto
+- GitHub
+- AzureDevops
+- Agile
 
 ### Front
 - Angular
