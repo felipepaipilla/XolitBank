@@ -41,6 +41,9 @@ El proyecto tiene hace uso de la siguiente tecnología:
 ### Base de Datos
 SQL InMemory DataBase
 
+## Gestión del Proyecto
+https://felipepaipilla.visualstudio.com/XolitBank
+
 ## Instalación
 
 Explica cómo instalar las dependencias y cómo ejecutar tu proyecto.
