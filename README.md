@@ -23,17 +23,27 @@ Dentro de la solución se debe visualizar la implementación de patrones y model
 
 Historias de Usuario
 
+## Diseño
+
+## Stack Tecnológico
+El proyecto tiene hace uso de la siguiente tecnología:
+
+### Front
+- Angular
+
+### Back
+- .NET Core 6.0
+
+### Base de Datos
+SQL InMemory DataBase
+
 ## Instalación
 
 Explica cómo instalar las dependencias y cómo ejecutar tu proyecto.
 
 ## Uso
 
-Muestra algunos ejemplos de cómo usar tu proyecto, con capturas de pantalla o vídeos si es posible.
-
-## Contribución
-
-Indica cómo otros desarrolladores pueden contribuir a tu proyecto, qué reglas o normas deben seguir y cómo contactarte.
+La versión del proyecto ha sido publicado en el siguiente sitio.
 
 ## Licencia
 
